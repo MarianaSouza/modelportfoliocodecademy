@@ -1,0 +1,89 @@
+html, body {
+  margin: 0px;
+  width: 100%;
+  font-family: "Open Sans", serif;
+}
+
+.row {
+    margin-right: 0px!important;
+    margin-left: 0px!important; 
+}
+
+
+.myphoto {
+    border-radius: 50%;
+    margin-left: 40%;
+    padding: 6%;
+}
+
+.nav{
+    margin-right: 30%;
+    margin-top: 4%;
+}
+
+.nav ul {
+    float: left;
+    display: inline;
+
+}
+
+.nav li a {
+    color: #333;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.introduction h2 {
+    color: #333;
+    margin: 3% 10% 6%;
+    font-size: 40px; 
+
+}
+
+.introduction h2 span {
+    color: #f3172d;
+
+}
+
+.portfolio {
+    background-color: #333; 
+    color: #fff; 
+    padding: 3%; 
+    height: 500px;
+    text-align: left;
+}
+
+.portfolio h3{
+    text-align: center;
+    margin: 0.5%;
+}
+
+.about {
+    background-color: #C0C0C0;
+    color: #1a1a1a;
+    padding: 3%;
+    height: 500px;
+    text-align: left;
+
+}
+
+.about h3{
+    text-align: center;
+    margin: 0.5%;
+}
+
+.about ul{
+    list-style: none;
+}
+
+footer {
+    background-color: #f3172d;
+    color: #fff; 
+    padding: 3% 6%;
+    height: 200px;
+}
+
+footer img {
+    padding: 1px;
+}
+
